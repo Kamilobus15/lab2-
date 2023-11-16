@@ -19,5 +19,7 @@ Para ejecutar este proyecto se necesita:
 - Por medio de la consola de comandos CLI, ejecutar el proyecto relacionado con "cli-input-adapter" y acceder a la terminal de comandos para interactuar con el sistema.
 
 ## Colaboradores
-- Mateo Andres Arenas Angel (arenas.mandres@javeriana.edu.co)
+- Loui Gerard Velez Quintero (lovelez@javeriana.edu.co)
+- Ivan Camilo Bustos Mateus (bu_ivan@javeriana.edu.co)
+- Diego Gartner Parra (diegogartner@javeriana.edu.co)
 
